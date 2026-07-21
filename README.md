@@ -4,8 +4,6 @@
 
 Software engineering student at **1337 Coding School** (42 Network)
 
-I like building things from scratch to understand how they really work.
-
 </div>
 
 ---
